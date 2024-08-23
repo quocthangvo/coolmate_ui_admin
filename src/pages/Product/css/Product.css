@@ -1,0 +1,17 @@
+.image-item {
+    position: relative;
+    display: inline-block;
+    
+  }
+  
+  .image-item img {
+    display: block;
+  }
+  
+  .image-item .btn-close {
+    position: absolute;
+    top: 5px; 
+    right: 5px; 
+    /* background-color: rgba(255, 255, 255, 0.7);  */
+  }
+  
